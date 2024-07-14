@@ -1,0 +1,39 @@
+p,
+li,
+h1 {
+  font-family: "Manrope", sans-serif;
+  color: red;
+  width: 500px;
+  border: 1px solid blue;
+}
+
+.myh2 {
+  color: green;
+}
+
+#myh1 {
+  color: purple;
+}
+
+p[class] {
+  border: 5px dotted pink;
+  font-size: 64px;
+}
+
+html {
+  background-color: rgb(226, 188, 131);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(243, 219, 183);
+  text-shadow: 8px 8px 2px rgb(151, 151, 151);
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100px
+}
